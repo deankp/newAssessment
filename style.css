@@ -1,5 +1,16 @@
-/* add code here to make your image 300px square */
+/* changed image to 300px*/
+.nico {
+  width: 300px;
+  height: 300px;
+}
 
-/* add code here to change the color and font family of your name/title */
+/* changed font and color */
+h1 {
+  color: steelblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-/* Bonus: change the color of your list elements */
+/* changed color of list elements */
+ol {
+  color: orangered;
+}
